@@ -3,5 +3,7 @@
 //     console.log(liststyle);
 // }
 
-var para = document.getElementsByClassName('parahead');
-console.log(para);
+var para = document.querySelectorAll('.parahead');
+for (var paragraph of para) {
+
+}
