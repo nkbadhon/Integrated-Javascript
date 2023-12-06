@@ -4,3 +4,4 @@
 // }
 
 var para = document.getElementsByClassName('parahead');
+console.log(para);
